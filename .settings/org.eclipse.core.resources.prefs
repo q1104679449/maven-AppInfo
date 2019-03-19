@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/cn=GBK
+encoding//src/main/java/cn/controller/backend/AppCheckController.java=GBK
+encoding//src/main/java/cn/controller/developer/AppInfoController.java=GBK
+encoding//src/main/java/cn/controller/developer/DevLoginController.java=GBK
+encoding//src/main/java/cn/pojo=UTF-8
+encoding//src/main/java/cn/service/developer=UTF-8
+encoding//src/main/java/cn/service/developer/AppCategoryService.java=GBK
+encoding//src/main/java/cn/service/developer/AppInfoService.java=GBK
+encoding//src/main/java/cn/service/developer/AppInfoServiceImpl.java=GBK
+encoding//src/main/java/cn/tools/Constants.java=UTF-8
+encoding//src/main/java/cn/tools/PageSupport.java=UTF-8
+encoding//src/main/webapp/statics/localjs/appinfoadd.js=UTF-8
+encoding//src/main/webapp/statics/localjs/appinfolist.js=UTF-8
+encoding//src/main/webapp/statics/localjs/appinfomodify.js=UTF-8
+encoding//src/main/webapp/statics/localjs/applist.js=UTF-8
+encoding//src/main/webapp/statics/localjs/appversionmodify.js=UTF-8
